@@ -1,0 +1,7 @@
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000004
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000004
+this video cost time: 686.4645800590515sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000006
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000006
+this video cost time: 340.924809217453sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000007

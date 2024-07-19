@@ -1,0 +1,11 @@
+for train:
+python stpntrain --mode train --train_stream rgb(or flow) --dataset thumos14(or activitynet1.2)
+                 --training_num 30000(for thumos14) or (303000 for activitynet1.2) --erased_branch_num 1 (or 0, 2)
+for test:
+python stpntrain --mode test --test_mode fusion (or rgb, flow) --dataset thumos14(or activitynet1.2)
+                 --test_iter 6000(for thumos14) or (164400 for activitynet1.2)
+                 --test_iter2 8400(for thumos14) or (142800 for activitynet1.2)
+
+for eval
+python3 get_detection_performance.py gt.json ../code/ckpt/ckpt001/results.json   --subset test (for thumos14)
+python3 get_detection_performance.py activity_net.v1-2.min.json ../code/ckpt/ckpt001/results.json   --subset=validation (for activitynet1.2)

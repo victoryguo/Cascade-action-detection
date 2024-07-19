@@ -1,0 +1,496 @@
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000004
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000004
+this video cost time: 1672.8074855804443 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000006
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000006
+this video cost time: 811.425036907196 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000007
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000007
+this video cost time: 4947.161190986633 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000011
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000011
+this video cost time: 934.5067503452301 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000026
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000026
+this video cost time: 3362.2500264644623 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000028
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000028
+this video cost time: 1264.7654402256012 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000039
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000039
+this video cost time: 1500.3428978919983 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000045
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000045
+this video cost time: 3644.909656524658 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000046
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000046
+this video cost time: 660.8405122756958 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000051
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000051
+this video cost time: 335.5510747432709 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000058
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000058
+this video cost time: 378.8118278980255 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000062
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000062
+this video cost time: 93.44234991073608 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000073
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000073
+this video cost time: 1312.970559835434 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000085
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000085
+this video cost time: 2343.2626078128815 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000113
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000113
+this video cost time: 276.5864689350128 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000129
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000129
+this video cost time: 1305.6226983070374 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000131
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000131
+this video cost time: 1959.125738620758 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000173
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000173
+this video cost time: 2120.8019218444824 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000179
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000179
+this video cost time: 3656.898166656494 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000188
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000188
+this video cost time: 5125.757886648178 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000211
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000211
+this video cost time: 837.8551750183105 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000220
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000220
+this video cost time: 4078.333126783371 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000238
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000238
+this video cost time: 280.93219089508057 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000242
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000242
+this video cost time: 868.2481744289398 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000250
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000250
+this video cost time: 1743.2235214710236 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000254
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000254
+this video cost time: 3161.8011865615845 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000273
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000273
+this video cost time: 874.365306854248 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000278
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000278
+this video cost time: 3411.265749692917 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000285
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000285
+this video cost time: 2397.281975746155 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000292
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000292
+this video cost time: 617.3441185951233 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000293
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000293
+this video cost time: 1299.067283153534 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000308
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000308
+this video cost time: 1133.515810251236 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000319
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000319
+this video cost time: 1290.5760719776154 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000324
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000324
+this video cost time: 1500.4600100517273 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000353
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000353
+this video cost time: 574.8274569511414 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000355
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000355
+this video cost time: 8093.085668325424 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000357
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000357
+this video cost time: 832.0469536781311 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000367
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000367
+this video cost time: 2752.0450999736786 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000372
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000372
+this video cost time: 1297.9211027622223 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000374
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000374
+this video cost time: 743.4181418418884 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000379
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000379
+this video cost time: 13572.940200090408 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000392
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000392
+this video cost time: 998.30894780159 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000405
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000405
+this video cost time: 877.9568667411804 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000412
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000412
+this video cost time: 1192.9728181362152 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000413
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000413
+this video cost time: 445.25715684890747 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000423
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000423
+this video cost time: 686.8009717464447 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000426
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000426
+this video cost time: 1396.93022108078 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000429
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000429
+this video cost time: 1016.4324367046356 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000437
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000437
+this video cost time: 3425.098284959793 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000442
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000442
+this video cost time: 2383.6774139404297 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000443
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000443
+this video cost time: 4948.728125095367 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000444
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000444
+this video cost time: 2952.4314942359924 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000448
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000448
+this video cost time: 603.4930942058563 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000450
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000450
+this video cost time: 104.16110873222351 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000461
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000461
+this video cost time: 1097.140352487564 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000464
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000464
+this video cost time: 7707.5256452560425 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000504
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000504
+this video cost time: 229.80292439460754 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000505
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000505
+this video cost time: 1431.9404017925262 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000538
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000538
+this video cost time: 1697.4304196834564 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000541
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000541
+this video cost time: 459.09867811203003 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000549
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000549
+this video cost time: 741.7407460212708 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000556
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000556
+this video cost time: 606.592310667038 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000558
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000558
+this video cost time: 627.372386932373 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000560
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000560
+this video cost time: 1514.9978322982788 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000569
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000569
+this video cost time: 1520.0218861103058 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000577
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000577
+this video cost time: 787.7466468811035 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000591
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000591
+this video cost time: 281.07459902763367 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000593
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000593
+this video cost time: 194.4135401248932 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000601
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000601
+this video cost time: 6330.568591117859 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000602
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000602
+this video cost time: 2991.817181825638 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000611
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000611
+this video cost time: 848.4996573925018 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000615
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000615
+this video cost time: 1203.0889654159546 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000617
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000617
+this video cost time: 1922.5657305717468 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000622
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000622
+this video cost time: 2019.2339186668396 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000624
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000624
+this video cost time: 1699.7953279018402 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000626
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000626
+this video cost time: 4070.525050163269 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000635
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000635
+this video cost time: 102.44930815696716 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000664
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000664
+this video cost time: 1102.4566860198975 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000665
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000665
+this video cost time: 3043.240107536316 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000671
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000671
+this video cost time: 761.4774596691132 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000672
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000672
+this video cost time: 537.4479405879974 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000673
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000673
+this video cost time: 2858.805034160614 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000689
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000689
+this video cost time: 344.7836194038391 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000691
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000691
+this video cost time: 2447.4177572727203 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000698
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000698
+this video cost time: 76.84926104545593 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000701
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000701
+this video cost time: 190.78162145614624 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000714
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000714
+this video cost time: 2736.879298686981 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000716
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000716
+this video cost time: 14759.77371096611 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000718
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000718
+this video cost time: 372.2107002735138 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000723
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000723
+this video cost time: 972.9567244052887 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000724
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000724
+this video cost time: 1484.9307606220245 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000730
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000730
+this video cost time: 2076.3099172115326 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000737
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000737
+this video cost time: 1490.0763087272644 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000740
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000740
+this video cost time: 2738.4209887981415 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000756
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000756
+this video cost time: 484.79001092910767 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000762
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000762
+this video cost time: 620.4594285488129 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000765
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000765
+this video cost time: 1557.4363205432892 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000767
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000767
+this video cost time: 967.8860144615173 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000771
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000771
+this video cost time: 603.6747515201569 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000785
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000785
+this video cost time: 561.9391851425171 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000786
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000786
+this video cost time: 1068.3851613998413 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000793
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000793
+this video cost time: 29355.490092277527 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000796
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000796
+this video cost time: 680.8890278339386 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000798
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000798
+this video cost time: 542.7019898891449 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000807
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000807
+this video cost time: 2150.569459915161 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000814
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000814
+this video cost time: 1329.8635931015015 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000839
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000839
+this video cost time: 5892.0256934165955 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000844
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000844
+this video cost time: 1358.7523260116577 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000846
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000846
+this video cost time: 118.9476592540741 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000847
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000847
+this video cost time: 919.9134094715118 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000854
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000854
+this video cost time: 1453.4469287395477 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000864
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000864
+this video cost time: 1267.0100407600403 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000873
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000873
+this video cost time: 318.12041425704956 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000882
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000882
+this video cost time: 1905.8835515975952 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000887
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000887
+this video cost time: 2805.886701822281 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000896
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000896
+this video cost time: 3206.8444952964783 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000897
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000897
+this video cost time: 557.6227238178253 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000903
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000903
+this video cost time: 6992.884395837784 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000940
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000940
+this video cost time: 1033.6173000335693 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000946
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000946
+this video cost time: 304.42764687538147 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000950
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000950
+this video cost time: 18332.385304927826 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000964
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000964
+this video cost time: 771.8309984207153 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000981
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000981
+this video cost time: 234.20335507392883 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000987
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000987
+this video cost time: 1765.2469830513 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000989
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000989
+this video cost time: 1216.9760627746582 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0000991
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0000991
+this video cost time: 864.3650126457214 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001008
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001008
+this video cost time: 2215.3958802223206 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001038
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001038
+this video cost time: 1978.1774249076843 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001039
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001039
+this video cost time: 2429.808576822281 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001040
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001040
+this video cost time: 2882.210559129715 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001058
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001058
+this video cost time: 10876.087576389313 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001064
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001064
+this video cost time: 5068.299035310745 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001066
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001066
+this video cost time: 1869.0187258720398 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001072
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001072
+this video cost time: 2560.0356130599976 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001075
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001075
+this video cost time: 762.072633266449 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001076
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001076
+this video cost time: 882.3059988021851 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001078
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001078
+this video cost time: 455.0647828578949 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001079
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001079
+this video cost time: 4559.006461381912 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001080
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001080
+this video cost time: 231.7760579586029 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001081
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001081
+this video cost time: 2116.8099427223206 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001098
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001098
+this video cost time: 1764.7766921520233 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001114
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001114
+this video cost time: 828.7600617408752 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001118
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001118
+this video cost time: 397.4804093837738 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001123
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001123
+this video cost time: 5096.156204462051 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001127
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001127
+this video cost time: 558.4492807388306 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001129
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001129
+this video cost time: 448.26792883872986 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001134
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001134
+this video cost time: 1839.899533033371 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001135
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001135
+this video cost time: 820.3857724666595 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001146
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001146
+this video cost time: 1118.507513999939 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001153
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001153
+this video cost time: 1322.7529430389404 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001159
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001159
+this video cost time: 8115.198458194733 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001162
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001162
+this video cost time: 964.317587852478 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001163
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001163
+this video cost time: 272.84927797317505 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001164
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001164
+this video cost time: 9275.548733711243 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001168
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001168
+this video cost time: 388.5581877231598 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001174
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001174
+this video cost time: 3699.487557888031 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001182
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001182
+this video cost time: 1566.9871838092804 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001194
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001194
+this video cost time: 1806.0308711528778 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001195
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001195
+this video cost time: 17609.80600643158 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001201
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001201
+this video cost time: 5797.405189990997 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001202
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001202
+this video cost time: 364.7940216064453 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001207
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001207
+this video cost time: 17855.92577147484 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001209
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001209
+this video cost time: 3251.0335404872894 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001219
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001219
+this video cost time: 2474.171481370926 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001223
+complete and save to: /home/huanbin/myproject/tpsn_feat_extraction/flow_frames/flow_test/video_test_0001223
+this video cost time: 1540.4412951469421 sec
+start get flow from: /home/fzy/THUMOS14/test_frames/video_test_0001229
